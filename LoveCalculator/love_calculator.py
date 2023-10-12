@@ -4,6 +4,7 @@ name1 = input("What is your name?\n")
 name2 = input("What is your partner's / crush's name?\n")
 
 print("The Love Calculator is calculating your score...")
+
 combined_name = (name1 + name2).lower()
 
 t_count=combined_name.count("t")
