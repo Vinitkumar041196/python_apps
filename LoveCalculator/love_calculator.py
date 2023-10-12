@@ -2,12 +2,15 @@
 
 name1 = input("What is your name?\n")
 name2 = input("What is your (present/expected) partner's name?\n")
+
 print("The Love Calculator is calculating your score...")
 combined_name = (name1 + name2).lower()
+
 t_count=combined_name.count("t")
 r_count=combined_name.count("r")
 u_count=combined_name.count("u")
 e_count=combined_name.count("e")
+
 l_count=combined_name.count("l")
 o_count=combined_name.count("o")
 v_count=combined_name.count("v")
