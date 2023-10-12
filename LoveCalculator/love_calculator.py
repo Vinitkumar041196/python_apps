@@ -1,4 +1,4 @@
-#Topics: #CLI_Inputs #StringLowerMethod #StringCountMethod #TypeCasting #if-elif-else #ConditionalOperators #fstring
+#Topics: #CLIInputs #StringLowerMethod #StringCountMethod #TypeCasting #if-elif-else #ConditionalOperators #fstring
 
 name1 = input("What is your name?\n")
 name2 = input("What is your (present/future) partner's name?\n")
