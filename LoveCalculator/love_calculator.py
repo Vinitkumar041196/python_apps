@@ -1,6 +1,6 @@
+name1 = input("What is your name?\n")
+name2 = input("What is your (present/future) partner's name?\n")
 print("The Love Calculator is calculating your score...")
-name1 = input("What is your name?")
-name2 = input("What is your (present/future) partner's name?")
 combined_name = (name1 + name2).lower()
 t_count=combined_name.count("t")
 r_count=combined_name.count("r")
@@ -19,5 +19,3 @@ elif love_score > 40 and love_score < 50:
   print(f"Your score is {love_score}, you are alright together.")
 else:
   print(f"Your score is {love_score}.")
-
-
