@@ -13,4 +13,4 @@ pet_name = input("What is the name of your pet?\n")
 band_name = city +" "+pet_name
 
 #5. Make sure the input cursor shows on a new line:
-print("Your Band Name is: " + band_name)
+print("Your Band Name can be: " + band_name)
